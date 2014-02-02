@@ -1,7 +1,7 @@
 body {
   font-family: 'Artifika';
   color: #F8F8FF;	
-  background: #8B8378;
+  background: #8B8378 url('img/texture.png') repeat;
 }
 
 a {
@@ -21,7 +21,7 @@ h2 {
 
 .btn {
 	color: #FAF3BC; 
-	background: #4FB69F url('img/texture.png') no-repeat right top;
+	background: #CDC0B0 url('img/neworder.jpg') no-repeat right top;
 	padding: 15px 30px;
 	margin: 40px 0px;
 	border-radius: 25px;
