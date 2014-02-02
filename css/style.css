@@ -1,6 +1,6 @@
 body {
-  font-family: 'Nunito', sans-serif;
-  color: #FAF3BC;	
+  font-family: 'Artifika';
+  color: #F8F8FF;	
   background: #8B8378;
 }
 
@@ -10,13 +10,13 @@ a {
 }
 
 h1 {
-	font-size: 1.750em;
+	font-size: 1.500em;
 	letter-spacing: -1.5px;
 }
 
 h2 {
-	font-size: 1.500em;
-	color: #B4C34F;
+	font-size: 1.250em;
+	color: #F8F8FF;
 }
 
 .btn {
@@ -63,7 +63,7 @@ ul.nav li a {
 
 #copyright {
 	border-top: 8px solid #2A0400;
-	padding: 10px 0px;
+	padding: 15px 0px;
 	margin: 15px 0px;
 	text-align: center;
 }
